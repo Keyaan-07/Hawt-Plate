@@ -8,5 +8,5 @@ What i think i need is that first of all a controller(I think i am gonna use the
 Okay, [this](https://www.lcsc.com/product-detail/MOSFETs_UTC-Unisonic-Tech-UT20N03L-TN3-R_C171442.html) is the mosfet i decided to go with. [This](https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_JSMSEMI-AMS1117S-3-3_C917152.html) is the voltage regulator i decided. Can't find a good thermistor now i'll look tomorrow.
 
 
-GUESS WHO FOUND [A GOOD THERMISTOR] IN JUST A FEW MINUTES AFTER THE LAST COMMIT BECAUSE I COULDN'T WAIT TILL TOMORROW
+GUESS WHO FOUND [A GOOD THERMISTOR](https://www.lcsc.com/product-detail/NTC-Thermistors_Dersonic-NTDM1003FB39500148_C5355638.html) IN JUST A FEW MINUTES AFTER THE LAST COMMIT BECAUSE I COULDN'T WAIT TILL TOMORROW
 ### Time Spent: 10 mins
