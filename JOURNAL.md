@@ -1,3 +1,10 @@
+---
+title: "Hawt Plate"
+author: "Keyaan"
+description: "A PCB Hot Plate!"
+created_at: "2024-06-01"
+---
+
 # June 1, 2025
 
 So, i decided to build a PCB hotplate. Yes i had decided to make it before it was put up as ideas on [highway](https://highway.hackclub.com) website.
