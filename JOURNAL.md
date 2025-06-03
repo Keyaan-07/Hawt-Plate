@@ -10,3 +10,11 @@ Okay, [this](https://www.lcsc.com/product-detail/MOSFETs_UTC-Unisonic-Tech-UT20N
 
 GUESS WHO FOUND [A GOOD THERMISTOR](https://www.lcsc.com/product-detail/NTC-Thermistors_Dersonic-NTDM1003FB39500148_C5355638.html) IN JUST A FEW MINUTES AFTER THE LAST COMMIT BECAUSE I COULDN'T WAIT TILL TOMORROW
 ### Time Spent: 30 mins
+  
+--------  
+
+# June 3 2025
+
+Couldn't work yesterday cuz i had to study, and now started the journal again cuz i realised that the old mosfet is not compatible with 3.3v from rp2040. so i changed the mosfet and [this](https://www.lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3400A_C20917.html) is the new mosfet now. I will be controlling it using PWM 
+
+#### Time spent this session: 10 mins
