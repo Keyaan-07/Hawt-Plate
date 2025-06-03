@@ -1,3 +1,10 @@
+---
+title: "Hawt Plate"
+author: "Keyaan"
+description: "A PCB Hot Plate!"
+created_at: "2024-06-01"
+---
+
 # June 1, 2025
 
 So, i decided to build a PCB hotplate. Yes i had decided to make it before it was put up as ideas on [highway](https://highway.hackclub.com) website.
@@ -31,8 +38,13 @@ Okay, i think most of the things are done in the schematic, here it is(btw i ass
 
 ![image](./Images/June-3/Schematic.png)
 
-Btw what i was thinking is that PID would be overkill for this, i think a normal algorithm(PID minus ID, means only proportional) would be OK. But i am going to try PID too!!
-
-And Somehow i have to find a way to figure out the resistance of the Big PCB trace, and i thought of going with 5cm x 6cm PCB trace Area, and i will try to make the whole board in 6.5cm x 6.5cm...
-
+Btw what i was thinking is that PID would be
+overkill for this, i think a normal algorithm
+(PID minus ID, means only proportional) would be
+0K. But i am going to try PID too!!  
+And Somehow i have to find a way to figure out
+the resistance of the Big PCB trace, and i
+thought of going with 5cm x 6cm PCB trace Area,
+and i will try to make the whole board in 6.5cm
+x 6.5cm...
 ### Total Time Spent Today: 2 hours 10 mins
