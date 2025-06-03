@@ -15,6 +15,11 @@ GUESS WHO FOUND [A GOOD THERMISTOR](https://www.lcsc.com/product-detail/NTC-Ther
 
 # June 3 2025
 
-Couldn't work yesterday cuz i had to study, and now started the journal again cuz i realised that the old mosfet is not compatible with 3.3v from rp2040. so i changed the mosfet and [this](https://www.lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3400A_C20917.html) is the new mosfet now. I will be controlling it using PWM 
+Couldn't work yesterday cuz i had to study, and now started the journal again cuz i realised that the old mosfet is not compatible with 3.3v from rp2040. so i changed the mosfet and [this](https://www.lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3400A_C20917.html) is the new mosfet now. I will be controlling it using PWM.  
 
+And um yeah i also wanted to tell that i will be using thermistor for calculating temperature of the plate. this will be done using a voltage divider network, probably a 10k ohm resistor connected to ground and other side connected to thermistor and thermistor connected to 3.3v, and the voltage divider junction will be connected to rp2040 to measure temperature.  
+
+I will be using a similar technique to measure the input voltage, like i can use a resistor divider to measure voltage which will thus help in controlling MOSFET.  
+
+That's all for now
 #### Time spent this session: 10 mins
