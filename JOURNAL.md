@@ -27,6 +27,8 @@ That's all for now
 Um Okay, i forgot to mention this, but i am also gonna use an [OLED](https://roboticsdna.in/product/1-3-inch-iic-128x64-oled-display-module-4-pin-blue/), and two [buttons](https://www.lcsc.com/product-detail/Others_C-K-PTS810SJK250SMTRLFS_C221896.html) (Push button), i wanna make it like pinecil....
 
 
-Okay, i think most of the things are done in the schematic, here it is:  
+Okay, i think most of the things are done in the schematic, here it is(btw i assigned a few footprints too):  
 
 ![image](./Images/June-3/Schematic.png)
+
+### Total Time Spent Today: 2 hours 10 mins
