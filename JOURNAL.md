@@ -48,3 +48,9 @@ thought of going with 5cm x 6cm PCB trace Area,
 and i will try to make the whole board in 6.5cm
 x 6.5cm...
 ### Total Time Spent Today: 2 hours 10 mins
+
+
+
+# June 5 2025
+
+It's 4:30 AM. Gonna start working on the project, i am in the call right now.
