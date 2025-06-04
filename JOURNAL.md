@@ -54,3 +54,5 @@ x 6.5cm...
 # June 5 2025
 
 It's 4:30 AM. Gonna start working on the project, i am in the call right now.
+
+I need a current sensor to Measure the current going through the coil. So, [this](https://www.lcsc.com/product-detail/Current-Sensors_Allegro-MicroSystems-LLC-ACS712ELCTR-20A-T_C10681.html) is the current sensor i found.  
