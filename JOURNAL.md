@@ -67,4 +67,4 @@ Completed the schematic:
 
 ![PCB](Images/June-5/pcb.png)
 
-### Total Time Spent Today: 2 hours 30 mins
+### Total Time Spent This session(the call): 2 hours 30 mins
