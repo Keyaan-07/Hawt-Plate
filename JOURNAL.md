@@ -50,7 +50,7 @@ x 6.5cm...
 ### Total Time Spent Today: 2 hours 10 mins
 
 
-
+--------  
 # June 5 2025
 
 It's 4:30 AM. Gonna start working on the project, i am in the call right now.
@@ -70,3 +70,7 @@ Completed the schematic:
 ### Total Time Spent This session(the call): 2 hours 30 mins
 
 I dont think i am gonna work anymore today so here is the total time spent today(i am really tired as the call was at 4:30 AM for me, i had to wake up way early(4 hours early than usual))
+
+### Total Time Spent Today: 2 Hours 30 Mins  
+
+--------  
