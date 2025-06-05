@@ -66,3 +66,5 @@ Completed the schematic:
 ![Schematic](Images/June-5/schematic_completed.png)
 
 ![PCB](Images/June-5/pcb.png)
+
+### Total Time Spent Today: 2 hours 30 mins
