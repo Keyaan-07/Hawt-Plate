@@ -61,3 +61,8 @@ I need a current sensor to Measure the current going through the coil. So, [this
 Curent Sensor changed. Current Current sensor is the [TI INA226](https://www.lcsc.com/product-detail/Current-Sense-Amplifiers_Texas-Instruments-INA226AIDGSR_C49851.html)
 
 Okay, i worked on the schematic a bit, and now i will probably start with the PCB.
+
+Completed the schematic:
+![Schematic](Images/June-5/schematic_completed.png)
+
+![PCB](Images/June-5/pcb.png)
