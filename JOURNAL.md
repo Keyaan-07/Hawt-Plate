@@ -68,3 +68,5 @@ Completed the schematic:
 ![PCB](Images/June-5/pcb.png)
 
 ### Total Time Spent This session(the call): 2 hours 30 mins
+
+I dont think i am gonna work anymore today so here is the total time spent today(i am really tired as the call was at 4:30 AM for me, i had to wake up way early(4 hours early than usual))
